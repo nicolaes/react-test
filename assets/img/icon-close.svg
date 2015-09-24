@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 2065 + Rectangle 2065 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Rectangle-2065-+-Rectangle-2065-Copy" sketch:type="MSLayerGroup" fill="#FFFFFF">
+            <rect id="Rectangle-2065" sketch:type="MSShapeGroup" transform="translate(8.500000, 8.500000) rotate(-45.000000) translate(-8.500000, -8.500000) " x="7" y="-1" width="3" height="19"></rect>
+            <rect id="Rectangle-2065-Copy" sketch:type="MSShapeGroup" transform="translate(8.500000, 8.500000) scale(-1, 1) rotate(-45.000000) translate(-8.500000, -8.500000) " x="7" y="-1" width="3" height="19"></rect>
+        </g>
+    </g>
+</svg>
